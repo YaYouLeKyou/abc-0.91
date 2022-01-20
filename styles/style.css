@@ -3518,6 +3518,11 @@ footer a:hover {
   .wall {
     height: 350vh;
   }
+   .cards-index {
+    background-color: black;
+    height: 380vh;
+    padding-top: 5%;
+  }
 }
 
 .cards-index {
