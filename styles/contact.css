@@ -16,7 +16,7 @@
 body {
   color: #777;
   background-color: #232323;
-
+  overflow: hidden;
   background-size: cover;
   background-image: url(../doc/images/02/NEXXTIMMO\ SCHILICK\ VUE\ 02\ AUBE-min.jpg);
 }
