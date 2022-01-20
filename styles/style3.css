@@ -5,6 +5,7 @@
 
 body {
   background-color: white;
+  overflow: hidden;
 }
 @keyframes marquee {
   0% {
