@@ -3508,6 +3508,11 @@ footer a:hover {
     background-position: center;
     z-index: 1;
   }
+   .cards-index {
+    background-color: black;
+    height: 340vh;
+    padding-top: 5%;
+  }
 }
 @media screen and (max-width: 300px) {
   .wall {
@@ -3517,7 +3522,7 @@ footer a:hover {
 
 .cards-index {
   background-color: black;
-  height: 330vh;
+  height: 300vh;
   padding-top: 5%;
 }
 #lorem {
