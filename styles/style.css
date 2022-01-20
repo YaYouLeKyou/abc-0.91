@@ -3520,7 +3520,7 @@ footer a:hover {
   }
    .cards-index {
     background-color: black;
-    height: 380vh;
+    height: 380vh !important;
     padding-top: 5%;
   }
 }
