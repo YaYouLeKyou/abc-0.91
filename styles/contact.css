@@ -29,6 +29,16 @@ body {
   margin: 0 auto;
   position: relative;
 }
+@media screen and (max-width: 600px) {
+  .form-container {
+    position: absolute;
+    width: 80%;
+    top: 20px;
+    transform: scale(0.8);
+    margin: 0 auto;
+    position: relative;
+  }
+}
 
 #contact input[type='text'],
 #contact input[type='email'],
