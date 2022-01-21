@@ -5,7 +5,7 @@
 
 body,
 html {
-  background-color: white;
+  background-color: white !important;
 }
 @keyframes marquee {
   0% {
@@ -3445,7 +3445,7 @@ footer a:hover {
   top: 250px;
 }
 #footer-logo {
-  margin-top: 8%;
+  bottom: -10%;
 }
 
 @media screen and (max-width: 1600px) {
@@ -3508,7 +3508,7 @@ footer a:hover {
     background-position: center;
     z-index: 1;
   }
-   .cards-index {
+  .cards-index {
     background-color: black;
     height: 340vh;
     padding-top: 5%;
@@ -3518,16 +3518,14 @@ footer a:hover {
   .wall {
     height: 350vh;
   }
-   .cards-index {
-    background-color: black;
-    height: 380vh !important;
-    padding-top: 5%;
+  .text-xs-center {
+    transform: scale(0.6);
   }
 }
 
 .cards-index {
   background-color: black;
-  height: 280vh;
+  height: 320vh;
   padding-top: 5%;
 }
 #lorem {
